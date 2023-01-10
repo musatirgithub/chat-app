@@ -16,7 +16,7 @@ body {
 
 .chat-container{
   width: 350px;
-  background-color: rgb(202, 202, 34);
+  background-color: #93c5fd;
   margin: 1rem auto;
   padding: 0.5rem 0.3rem;
 }
@@ -24,6 +24,7 @@ body {
 .texter{
   width: 310px;
 }
+
 .woman{
   width: 300px;
   border-radius: 15px;
